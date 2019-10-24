@@ -9,8 +9,3 @@ sb
 s
 bs
 gbb
--------------
-xxxxxxxxxxx
-------------
-nuova modifica
---------------
